@@ -1,0 +1,11 @@
+C:\Users\Анастасия\RiderProjects\hw5\hw5\bin\Debug\netcoreapp2.2\hw5.deps.json
+C:\Users\Анастасия\RiderProjects\hw5\hw5\bin\Debug\netcoreapp2.2\hw5.runtimeconfig.json
+C:\Users\Анастасия\RiderProjects\hw5\hw5\bin\Debug\netcoreapp2.2\hw5.runtimeconfig.dev.json
+C:\Users\Анастасия\RiderProjects\hw5\hw5\bin\Debug\netcoreapp2.2\hw5.dll
+C:\Users\Анастасия\RiderProjects\hw5\hw5\bin\Debug\netcoreapp2.2\hw5.pdb
+C:\Users\Анастасия\RiderProjects\hw5\hw5\obj\Debug\netcoreapp2.2\hw5.csprojAssemblyReference.cache
+C:\Users\Анастасия\RiderProjects\hw5\hw5\obj\Debug\netcoreapp2.2\hw5.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\RiderProjects\hw5\hw5\obj\Debug\netcoreapp2.2\hw5.AssemblyInfoInputs.cache
+C:\Users\Анастасия\RiderProjects\hw5\hw5\obj\Debug\netcoreapp2.2\hw5.AssemblyInfo.cs
+C:\Users\Анастасия\RiderProjects\hw5\hw5\obj\Debug\netcoreapp2.2\hw5.dll
+C:\Users\Анастасия\RiderProjects\hw5\hw5\obj\Debug\netcoreapp2.2\hw5.pdb
